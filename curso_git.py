@@ -4,12 +4,3 @@ inserindo outra linha")
 print("testando git rebase")
 print("testando git rebase de novo")
 print("testando git rebase pela ultima vez")
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-print("adicionando filme depois da série")
-=======
-print("vamos adicionar uma série")
->>>>>>> Stashed changes
-=======
-print("vamos adicionar uma série")
->>>>>>> Stashed changes
